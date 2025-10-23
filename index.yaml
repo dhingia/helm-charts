@@ -5,7 +5,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 3.13.0
-    created: "2025-10-23T13:59:40.2160958+05:30"
+    created: "2025-10-23T14:06:02.3698711+05:30"
     dependencies:
     - condition: etcd.enabled
       name: etcd
@@ -47,7 +47,7 @@ entries:
       licenses: Apache-2.0
     apiVersion: v2
     appVersion: 3.6.5
-    created: "2025-10-23T13:59:40.2207602+05:30"
+    created: "2025-10-23T14:06:02.3738771+05:30"
     dependencies:
     - name: common
       repository: oci://registry-1.docker.io/bitnamicharts
@@ -97,7 +97,7 @@ entries:
       license: Apache-2.0
     apiVersion: v2
     appVersion: 26.4.1
-    created: "2025-10-23T13:59:40.2277737+05:30"
+    created: "2025-10-23T14:06:02.3841328+05:30"
     dependencies:
     - name: common
       repository: oci://registry-1.docker.io/cloudpirates
@@ -147,7 +147,7 @@ entries:
       tanzuCategory: service
     apiVersion: v2
     appVersion: 3.12.0
-    created: "2025-10-23T13:59:40.2338712+05:30"
+    created: "2025-10-23T14:06:02.4202976+05:30"
     dependencies:
     - name: common
       repository: oci://registry-1.docker.io/bitnamicharts
@@ -157,7 +157,7 @@ entries:
     description: RabbitMQ is an open source general-purpose message broker that is
       designed for consistent, highly-available messaging scenarios (both synchronous
       and asynchronous).
-    digest: 38b4f0b65835b38ad55f94358c27c68c03749cf5e7c3d73b12728906d1c29f4a
+    digest: 1ed2abbca1fc794b5286d37bcc1fc5fbb6079f4c09357a5048fe5ec5dd7e697d
     home: https://bitnami.com
     icon: https://dyltqmyl993wv.cloudfront.net/assets/stacks/rabbitmq/img/rabbitmq-stack-220x234.png
     keywords:
@@ -173,4 +173,4 @@ entries:
     urls:
     - rabbitmq-16.0.14.tgz
     version: 16.0.14
-generated: "2025-10-23T13:59:40.199519+05:30"
+generated: "2025-10-23T14:06:02.3508819+05:30"
